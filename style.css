@@ -46,17 +46,29 @@ main {
 h1 {
   font-family: var(--serif);
   font-weight: 600;
-  font-size: 42px;
-  line-height: 1.1;
-  margin: 0 0 18px;
+  font-size: 36px;
+  line-height: 1.15;
+  margin: 0 0 20px;
   letter-spacing: -0.01em;
 }
 
 .lede {
-  font-size: 18px;
+  font-size: 17px;
   color: #333;
   margin: 0;
-  max-width: 60ch;
+  max-width: 62ch;
+}
+
+.lede a {
+  color: var(--link);
+  text-decoration: underline;
+  text-decoration-color: rgba(11, 79, 138, 0.3);
+  text-underline-offset: 3px;
+}
+
+.lede a:hover {
+  color: var(--link-hover);
+  text-decoration-color: var(--link-hover);
 }
 
 .pieces {
@@ -179,7 +191,7 @@ footer a:hover {
   main {
     padding: 48px 20px 48px;
   }
-  h1 { font-size: 34px; }
+  h1 { font-size: 28px; }
   .piece h2 { font-size: 22px; }
   .lede { font-size: 17px; }
 
