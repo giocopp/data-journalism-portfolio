@@ -1,6 +1,6 @@
 # Three Data Journalism Pieces
 
-Hi! Here you can find three data journalism pieces I've written for my course Data Journalism (GRAD-E1493) at the Hertie School, taught by Prof. [Simon Munzert](https://simonmunzert.com/) in Spring 2026.
+Hi! Here you can find three data journalism pieces I've written for my course [Data Journalism](https://github.com/data-journalism-26) (GRAD-E1493) at the Hertie School, taught by Prof. [Simon Munzert](https://simonmunzert.com/) in Spring 2026.
 
 📝 **You can access them at [here](https://giocopp.github.io/data-journalism-portfolio).**
 
