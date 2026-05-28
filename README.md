@@ -1,10 +1,10 @@
-# Data journalism — Giorgio Coppola
+# Three Data Journalism Pieces
 
-Landing page for the three data journalism pieces produced for GRAD-E1493 (Hertie School, 2026).
+Hi! Here you can find three data journalism pieces I've written for my course Data Journalism (GRAD-E1493) at the Hertie School, taught by Prof. [Simon Munzert](https://simonmunzert.com/) in Spring 2026.
 
-**Live site:** <https://giocopp.github.io/data-journalism-portfolio/>
+**You can access them here here** <https://giocopp.github.io/data-journalism-portfolio/>
 
-Each link on the hub opens the live GitHub Pages build of its own repository, so updates to the original repo show up here automatically.
+Each link on the hub opens the live GitHub Pages build of its own repository.
 
 ## Pieces
 
