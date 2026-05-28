@@ -6,8 +6,8 @@ Hi! Here you can find three data journalism pieces I've written for my course [D
 
 Each link on the hub opens the live GitHub Pages build of its own repository.
 
-## Pieces
+## Access the GitHub repos here
 
-- **Final project** — *The Cyclone Harry on the Central Mediterranean migration route* · [repo](https://github.com/giocopp/Cyclone-Harry-on-CMR) · [live](https://giocopp.github.io/Cyclone-Harry-on-CMR/)
-- **Data Bit 1** — *Where do migrants die or go missing at sea — and how are they counted?* · [repo](https://github.com/giocopp/Missing-Migrants-Count) · [live](https://giocopp.github.io/Missing-Migrants-Count/)
-- **Data Bit 2** — *How the word "Remigration" entered the Italian parliament* · [repo](https://github.com/giocopp/Remigration-It-Parl) · [live](https://giocopp.github.io/Remigration-It-Parl/)
+- **Final project** — *The Cyclone Harry on the Central Mediterranean migration route* · [GH repo](https://github.com/giocopp/Cyclone-Harry-on-CMR)
+- **Data Bit 1** — *Where do migrants die or go missing at sea — and how are they counted?* · [GH repo](https://github.com/giocopp/Missing-Migrants-Count)
+- **Data Bit 2** — *How the word "Remigration" entered the Italian parliament* · [GH repo](https://github.com/giocopp/Remigration-It-Parl)
